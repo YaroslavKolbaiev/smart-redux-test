@@ -1,7 +1,6 @@
 import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit';
 import getUsers from '../../api/getUsers';
 import User from '../../types';
-// import testUsers from '../../api/users.json';
 
 type FilterPayload = {
   nameFilter: string,

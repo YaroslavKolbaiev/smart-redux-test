@@ -1,4 +1,5 @@
 import { FormHelperText, TableCell, TextField } from '@mui/material';
+import { debounce } from 'lodash';
 
 type Props = {
   label: string;
@@ -13,7 +14,7 @@ export default function SearchCell({ label, filter }: Props) {
         variant="filled"
         size="small"
         type="search"
-        onChange={filter}
+        onChange={debounce(filter, 400)}
         sx={{ marginBottom: '10px' }}
       />
 

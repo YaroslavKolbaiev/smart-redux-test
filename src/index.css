@@ -1,0 +1,21 @@
+@import '@fontsource/roboto/400.css';
+
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f0f0;
+}
+
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #686767;
+  margin-bottom: 40px;
+  font-size: 48px;
+  text-shadow: 2px 2px 4px rgba(61, 59, 59, 0.4);
+}

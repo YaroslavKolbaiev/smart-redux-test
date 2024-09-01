@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "john.doe",
+    "email": "doe.mail@tv.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "username": "jane.doe",
+    "email": "Lucio_Hettinger@annie.ca",
+    "phone": "024-648-3804"
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "username": "john.smith",
+    "email": "Rey.Padberg@karina.biz",
+    "phone": "010-692-6593 x09125"
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "username": "alice.johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 5,
+    "name": "Bob Brown",
+    "username": "bob.brown",
+    "email": "bob.brown@example.com",
+    "phone": "555-234-5678"
+  },
+  {
+    "id": 6,
+    "name": "Charlie Davis",
+    "username": "charlie.davis",
+    "email": "charlie.davis@example.com",
+    "phone": "555-345-6789"
+  },
+  {
+    "id": 7,
+    "name": "Diana Evans",
+    "username": "diana.evans",
+    "email": "diana.evans@example.com",
+    "phone": "555-456-7890"
+  },
+  {
+    "id": 8,
+    "name": "Ethan Foster",
+    "username": "ethan.foster",
+    "email": "ethan.foster@example.com",
+    "phone": "555-567-8901"
+  },
+  {
+    "id": 9,
+    "name": "Fiona Green",
+    "username": "fiona.green",
+    "email": "fiona.green@example.com",
+    "phone": "555-678-9012"
+  },
+  {
+    "id": 10,
+    "name": "George Harris",
+    "username": "george.harris",
+    "email": "george.harris@example.com",
+    "phone": "555-789-0123"
+  },
+  {
+    "id": 11,
+    "name": "Hannah Irving",
+    "username": "hannah.irving",
+    "email": "hannah.irving@example.com",
+    "phone": "555-890-1234"
+  },
+  {
+    "id": 12,
+    "name": "Ian Jackson",
+    "username": "ian.jackson",
+    "email": "ian.jackson@example.com",
+    "phone": "555-901-2345"
+  },
+  {
+    "id": 13,
+    "name": "Julia King",
+    "username": "julia.king",
+    "email": "julia.king@example.com",
+    "phone": "555-012-3456"
+  }
+]
